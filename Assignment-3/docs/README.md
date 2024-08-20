@@ -23,7 +23,7 @@ Download or clone the repository and work on the assigned tasks. Ensure that all
 
 https://github.com/user-attachments/assets/ef43aa31-4932-4693-bf26-ebf4a0638dc1
 
--   [Click here]([https://github.com/SaiKiranMatta/ReactJS-and-FastAPI-Bootcamp-Assignments/archive/refs/heads/main.zip](https://github.com/cbitosc/ReactJS-and-FastAPI-Bootcamp-Assignments/archive/refs/heads/main.zip)) to download the zip file of the assignments.
+-   [Click here](https://github.com/cbitosc/ReactJS-and-FastAPI-Bootcamp-Assignments/archive/refs/heads/main.zip) to download the zip file of the assignments.
 -   Extract the repository once it is downloaded.
 -   Open Visual Studio Code and open the Assignment-3 folder in it.
 
